@@ -1,6 +1,16 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman726&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noman726&show_icons=true&theme=tokyonight" alt="Noman's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noman726&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 **Noman726/Noman726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
