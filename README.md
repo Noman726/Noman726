@@ -88,6 +88,8 @@ Feel free to reach out!
 📈 GitHub Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman726&theme=tokyo-night" /> </p>
 
+📈 GitHub Punchcard widget <br>
+![GitHub Punch Card](https://punchcardwidget.vercel.app/api/punchcard?user=Noman726&theme=default)
 
 ### 🛠️ Tech Stack
 
