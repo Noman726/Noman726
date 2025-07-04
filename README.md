@@ -1,4 +1,36 @@
-<h1 align="center">👋 Hi there, I'm Noman!</h1>
+<h1 align="center">🌐 Hi, Noman patel</h1>
+<div align="center">
+ <!-- <a href="https://aliasgar.vercel.app"> 
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit Portfolio" />
+  </a>-->
+</div>
+<br></br>
+<!--
+<p align="center">
+<a href="https://aliasgar.vercel.app/">Portfolio</a>
+</p>
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&center=true&width=1000&lines=Building+beautiful+apps+with+bold+ideas+🚀" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  Passionate Programmer • Aspiring Full Stack Developer •  
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noman726&color=blue" alt="Visitor Count"/>
+</p>
+
+<div align="center">
+
+
+📍 *Exploring Cloud | AI | DevOps Horizons*
+
+</div>
 <p align="center">🚀 Flutter & Full Stack Developer | Passionate about UI/UX, Mobile Apps & Clean Code</p>
 
 <p align="center">
