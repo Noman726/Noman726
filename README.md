@@ -110,8 +110,9 @@ Feel free to reach out!
 
 ### 🤝 Let's Connect
 
-📫 Email: [your.email@example.com]  
+📫 Email: Nomanpatel726@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/noman-patel-99107429a)  
+
 🌐 Portfolio: *Coming Soon*
 
 ---
