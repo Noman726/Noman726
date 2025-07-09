@@ -52,12 +52,21 @@ I'm a passionate developer who enjoys building mobile applications using **Flutt
 
 - 🔭 Currently working on a Flutter application  
 - 🌱 Learning **Dart** and deepening my mobile dev knowledge  
-- 📫 Reach me at: [your-email@example.com] or on [LinkedIn](https://www.linkedin.com/in/noman-patel-99107429a)  
+- 📫 Reach me at: nomanpatel726@gmail.com or on LinkedIn: https://www.linkedin.com/in/noman-patel-99107429a
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I can debug code better with coffee ☕
 
 ---
+## 🔗 Connect with Me
 
+<p align="center">
+  <a href="mailto:nomanpatel726@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nomanpatel726"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/nomanpatel726"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
 ### 🤝 Let's Collaborate
 
 I'm open to:
@@ -108,14 +117,6 @@ Feel free to reach out!
 - Preventive Maintenance & Diagnostics  
 - Pharmaceutical & Safety Industry Knowledge
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:nomanpatel726@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nomanpatel726"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/nomanpatel726"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 ---
 
