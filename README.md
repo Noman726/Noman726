@@ -5,11 +5,11 @@
   </a>-->
 </div>
 <br></br>
-<!--
+
 <p align="center">
-<a href="https://aliasgar.vercel.app/">Portfolio</a>
+<a href="https://portfolio-1-noman.vercel.app/">Portfolio</a>
 </p>
--->
+
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffca38&center=true&width=1000&lines=Building+beautiful+apps+with+bold+ideas+%F0%9F%9A%80" alt="Typing SVG" />
