@@ -1,8 +1,8 @@
 <h1 align="center">🌐 Hi, Noman patel</h1>
 <div align="center">
- <!-- <a href="https://aliasgar.vercel.app"> 
+ <a href="https://aliasgar.vercel.app"> 
     <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit Portfolio" />
-  </a>-->
+  </a>
 </div>
 <br></br>
 
@@ -52,7 +52,7 @@ I'm a passionate developer who enjoys building mobile applications using **Flutt
 
 - 🔭 Currently working on a Flutter application  
 - 🌱 Learning **Dart** and deepening my mobile dev knowledge  
-- 📫 Reach me at: nomanpatel726@gmail.com or on LinkedIn: https://www.linkedin.com/in/noman-patel-99107429a
+- 📫 Reach me at: nomanpatel726@gmail.com or LinkedIn: https://www.linkedin.com/in/noman-patel-99107429a
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I can debug code better with coffee ☕
 
